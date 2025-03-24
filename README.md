@@ -11,92 +11,92 @@
 
 ---
 
-## **◈ Demo**
+## ‣ Demo
 ![Nephtegen Demo](assets/neph.gif)  
 *⊹ a walkthrough ⊹*
 
 ---
 
-## **◈ Screenshots**
+## ‣ Screenshots
 
 ---
 
-## **◈ Showcase (exemplary products)**
+## ‣ Showcase (exemplary products)
 
 ### One-word
-☖ **Cytos** ⇝ *can be defined as a network or system of cells, reflecting the intersection of biological (neolithic, in terms of ancient, primal connections) and technological (cyberpunk) 
-☖ **Tyomorph** ⇝ *can be defined as a powerful, isolated entity or device, possibly a weapon, that embodies the raw energy of the universe ("om") while warning of its tyrannical or overwhelming power ("ty")*
+- **Cytos** ⇝ *can be defined as a network or system of cells, reflecting the intersection of biological (neolithic, in terms of ancient, primal connections) and technological (cyberpunk) 
+- **Tyomorph** ⇝ *can be defined as a powerful, isolated entity or device, possibly a weapon, that embodies the raw energy of the universe ("om") while warning of its tyrannical or overwhelming power ("ty")*
 
 ### Two-word
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Two-word (hyphenated)
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Three-word
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Three-word (hyphenated)
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Abstract Phrase
-☖ ** ⇝ **
-☖ ** ⇝ **
+- ** ⇝ **
+- ** ⇝ **
 
 ### Acronym
-☖ **** - **
-☖ **** - **
+- **** - **
+- **** - **
 
 ### Alliterative Phrase
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Haiku
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Motto
-☖ *.* ⇝ **
-☖ *.* ⇝ **
+- *.* ⇝ **
+- *.* ⇝ **
 
 ### Portmanteau
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 ### Symbolic Term
-☖ **** ⇝ **
-☖ **** ⇝ **
+- **** ⇝ **
+- **** ⇝ **
 
 
-✦ *Crafted by Nephtegen*
-
----
-
-## **◈ Features**
-
-‣ **Interactive CLI**: Responsive TUI flow built with Bubble Tea & Huh.
-‣ **Pattern-Based Prompting**: Uses markdown templates per format type, stored in `patterns/`.
-‣ **Alphabet Injection**: Injects rare letterforms to reduce LLM repetition.
-‣ **Multiple Naming Forms**:
-  ‣ One-word, Two-word, Three-word
-  ‣ Haikus, Acronyms, Mottos
-  ‣ Portmanteaus, Symbolic Terms
-  ‣ Abstract or Alliterative Phrases
-‣ **Logging**: Names and haikus are archived automatically.
-‣ **Modular Expansion**: Easy to add new output types or templates.
+ *Crafted by Nephtegen*
 
 ---
 
-## **◈ Getting Started**
+## ‣ Features
+
+- **Interactive CLI**: Responsive TUI flow built with Bubble Tea & Huh.
+- **Pattern-Based Prompting**: Uses markdown templates per format type, stored in `patterns/`.
+- **Alphabet Injection**: Injects rare letterforms to reduce LLM repetition.
+- **Multiple Naming Forms**:
+  - One-word, Two-word, Three-word
+  - Haikus, Acronyms, Mottos
+  - Portmanteaus, Symbolic Terms
+  - Abstract or Alliterative Phrases
+- **Logging**: Names and haikus are archived automatically.
+- **Modular Expansion**: Easy to add new output types or templates.
+
+---
+
+## ‣ Getting Started
 
 ### Prerequisites
-‣ **Go 1.21+**
-‣ **Fabric** installed and accessible via CLI
-‣ Ensure `fabric` command works in your shell (`zsh` or compatible)
+- **Go 1.21+**
+- **Fabric** installed and accessible via CLI
+- Ensure `fabric` command works in your shell (`zsh` or compatible)
 
 ### Installation
 ```bash
@@ -117,7 +117,7 @@ neph
 
 ---
 
-## **◈ Project Structure**
+## ‣ Project Structure
 
 ```plaintext
 .
@@ -140,7 +140,7 @@ neph
 
 ---
 
-## Patterns
+## ‣ Patterns
 
 Nephtegen does **not** load templates directly from the `patterns/` folder at runtime.
 
@@ -152,7 +152,7 @@ cp patterns/haiku/haikugen.md ~/.fabric/patterns/haiku/
 
 ---
 
-## Technical Notes
+## ‣ Technical Notes
 
 By default, Nephtegen uses **Fabric’s `--session` flag** in its CLI prompts to group requests by output type (e.g., `haiku`, `motto`, `port`). This helps Fabric maintain contextual memory for iterative improvements — but depending on your **LLM backend**, this may result in:
 
@@ -177,6 +177,6 @@ All examples below were generated using llama-3.3-70b-veratile (with Fabric, via
 
 ---
 
-## License 📜
+## ‣ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 

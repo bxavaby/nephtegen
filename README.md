@@ -12,7 +12,7 @@
 ### Dependencies
 
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) (TUI framework)
-- [Fabric](https://github.com/your-fabric-link) (LLM orchestration)
+- [Fabric](https://github.com/danielmiessler/fabric)) (LLM orchestration)
 - Go 1.21+
 
 ### Status

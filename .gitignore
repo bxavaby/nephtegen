@@ -1,6 +1,8 @@
 go.mod
 go.sum
 
+*.log
+
 /bin/
 /build/
 /dist/

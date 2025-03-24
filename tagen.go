@@ -159,7 +159,7 @@ func logCreation(creation string) {
 		return
 	}
 
-	fileName := filepath.Join(homeDir, "Projects", "Nephtegen", "ignis_ex_machina.log")
+	fileName := "ignis_ex_machina.log"
 
 	err = os.MkdirAll(filepath.Dir(fileName), 0755)
 	if err != nil {
@@ -191,7 +191,7 @@ func logHaiku(result string) {
 		return
 	}
 
-	fileName := filepath.Join(homeDir, "Projects", "Nephtegen", "haiku.log")
+	fileName := "haiku.log"
 
 	err = os.MkdirAll(filepath.Dir(fileName), 0755)
 	if err != nil {

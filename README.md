@@ -1,4 +1,4 @@
-![Nephtegen Logo](assets/neph-logo.png)
+![Nephtegen Logo](assets/neph.png)
 
 [![Go](https://img.shields.io/badge/Go-1.21%2B-blue?style=flat-square)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)

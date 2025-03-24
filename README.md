@@ -75,8 +75,8 @@
 - **Gyakusatsu no Katabasis, Echoes of Elysium.** ⇝ *delves into the realms of Eidolonetic and Grotesque styles to unveil the Orphic Mysteries; "Gyakusatsu" is a term that suggests a violent or inverse descent, while "no Katabasis" translates to "of the downward journey," referencing the Orphic mythological theme of journeying into the underworld; "Echoes of Elysium" juxtaposes the bleakness of the descent with the promise of a paradise or haven (Elysium), hinting at the transformative power of facing the grotesque and the unknown; the Eidolonetic aspect is reflected in the exploration of the shadow self and the mystical, ethereal echoes that guide one through the darkest passages.*
 
 ### Portmanteau
-- **Oeluxe** ⇝ *this portmanteau combines "Oe" with "luxe," seamlessly merging the sounds to create a phonetically appealing and elegant word; the components evoke a sense of high-end sophistication, with "luxe" conveying opulence and refinement, perfectly capturing the essence of decadent elegance*
-- **Hantech** ⇝ *this portmanteau fuses "Han" with "tech," blending the sounds to create a word that embodies the dark, futuristic essence of the underworld style; the components merge human ("Han") and technology ("tech"), symbolizing the posthuman ascension theme, where human evolution transcends into a technologically advanced state*
+- **Oeluxe** ⇝ *this portmanteau combines "Oe" with "luxe," seamlessly merging the sounds to create a phonetically appealing and elegant word; the components evoke a sense of high-end sophistication, with "luxe" conveying opulence and refinement, perfectly capturing the essence of decadent elegance.*
+- **Hantech** ⇝ *this portmanteau fuses "Han" with "tech," blending the sounds to create a word that embodies the dark, futuristic essence of the underworld style; the components merge human ("Han") and technology ("tech"), symbolizing the posthuman ascension theme, where human evolution transcends into a technologically advanced state.*
 
 ### Symbolic Term
 - **Yumei** ⇝ *this name is rooted in the Japanese language, where "yume" means dream; the term embodies the dreamlike theme by directly referencing the ethereal and often elusive nature of dreams; the addition of "i" at the end adds a touch of mysticism, suggesting a connection to the mysterious and the unknown; symbolically, "Yumei" invites the exploration of one's subconscious mind, delving into the surreal landscapes that dreams create; with its origins in Japanese etymology, "Yumei" aligns with the ossified style by presenting a name that is both ancient and timeless, evoking a sense of tradition and mystique.*
@@ -84,7 +84,7 @@
 
 <br>
 <br>
-**⋆** *Crafted by Nephtegen* **using llama-3.3-70b-veratile ⋆**
+*⋆ Crafted by Nephtegen* **using llama-3.3-70b-veratile ⋆**
 
 ---
 

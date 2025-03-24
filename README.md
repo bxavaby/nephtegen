@@ -1,4 +1,4 @@
-# Nephtegen 🔮
+![Nephtegen Logo](media/neph-logo.png)
 
 [![Go](https://img.shields.io/badge/Go-1.21%2B-blue?style=flat-square)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
@@ -11,89 +11,92 @@
 
 ---
 
-## **Demo**
+## **◈ Demo**
 ![Nephtegen Demo](assets/neph.gif)  
-*Above: A walkthrough ✨*
+*⊹ a walkthrough ⊹*
 
 ---
 
-## **Screenshots**
+## **◈ Screenshots**
 
 ---
 
-## Showcase (exemplary products)
+## **◈ Showcase (exemplary products)**
 
 ### One-word
-- **Cytos** -> *can be defined as a network or system of cells, reflecting the intersection of biological (neolithic, in terms of ancient, primal connections) and technological (cyberpunk) concepts*
-- **Tyomorph** -> *can be defined as a powerful, isolated entity or device, possibly a weapon, that embodies the raw energy of the universe ("om") while warning of its tyrannical or overwhelming power ("ty")*
+☖ **Cytos** ⇝ *can be defined as a network or system of cells, reflecting the intersection of biological (neolithic, in terms of ancient, primal connections) and technological (cyberpunk) 
+☖ **Tyomorph** ⇝ *can be defined as a powerful, isolated entity or device, possibly a weapon, that embodies the raw energy of the universe ("om") while warning of its tyrannical or overwhelming power ("ty")*
 
 ### Two-word
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Two-word (hyphenated)
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Three-word
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Three-word (hyphenated)
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Abstract Phrase
-- ** -> **
-- ** -> **
+☖ ** ⇝ **
+☖ ** ⇝ **
 
 ### Acronym
-- **** - **
-- **** – **
+☖ **** - **
+☖ **** - **
 
 ### Alliterative Phrase
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Haiku
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Motto
-- *.* -> **
-- *.* -> **
+☖ *.* ⇝ **
+☖ *.* ⇝ **
 
 ### Portmanteau
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
 
 ### Symbolic Term
-- **** -> **
-- **** -> **
+☖ **** ⇝ **
+☖ **** ⇝ **
+
+
+✦ *Crafted by Nephtegen*
 
 ---
 
-## Features
+## **◈ Features**
 
-- **Interactive CLI**: Responsive TUI flow built with Bubble Tea & Huh.
-- **Pattern-Based Prompting**: Uses markdown templates per format type, stored in `patterns/`.
-- **Alphabet Injection**: Injects rare letterforms to reduce LLM repetition.
-- **Multiple Naming Forms**:
-  - One-word, Two-word, Three-word
-  - Haikus, Acronyms, Mottos
-  - Portmanteaus, Symbolic Terms
-  - Abstract or Alliterative Phrases
-- **Logging**: Names and haikus are archived automatically.
-- **Modular Expansion**: Easy to add new output types or templates.
+‣ **Interactive CLI**: Responsive TUI flow built with Bubble Tea & Huh.
+‣ **Pattern-Based Prompting**: Uses markdown templates per format type, stored in `patterns/`.
+‣ **Alphabet Injection**: Injects rare letterforms to reduce LLM repetition.
+‣ **Multiple Naming Forms**:
+  ‣ One-word, Two-word, Three-word
+  ‣ Haikus, Acronyms, Mottos
+  ‣ Portmanteaus, Symbolic Terms
+  ‣ Abstract or Alliterative Phrases
+‣ **Logging**: Names and haikus are archived automatically.
+‣ **Modular Expansion**: Easy to add new output types or templates.
 
 ---
 
-## Getting Started
+## **◈ Getting Started**
 
 ### Prerequisites
-- **Go 1.21+**
-- **Fabric** installed and accessible via CLI
-- Ensure `fabric` command works in your shell (`zsh` or compatible)
+‣ **Go 1.21+**
+‣ **Fabric** installed and accessible via CLI
+‣ Ensure `fabric` command works in your shell (`zsh` or compatible)
 
 ### Installation
 ```bash
@@ -114,7 +117,7 @@ neph
 
 ---
 
-## Project Structure
+## **◈ Project Structure**
 
 ```plaintext
 .

@@ -159,15 +159,15 @@ func logCreation(creation string) {
 		return
 	}
 
-	fileName := "ignis_ex_machina.log"
+	logPath := filepath.Join(homeDir, ".nephtegen", "ignis_ex_machina.log")
 
-	err = os.MkdirAll(filepath.Dir(fileName), 0755)
+	err = os.MkdirAll(filepath.Dir(logPath), 0755)
 	if err != nil {
 		fmt.Printf("Error creating log directory: %v\n", err)
 		return
 	}
 
-	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file, err := os.OpenFile(logPath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("Error opening log file: %v\n", err)
 		return
@@ -184,40 +184,36 @@ func logCreation(creation string) {
 	writer.Flush()
 }
 
-func logHaiku(result string) {
+func logHaiku(creation string) {
 	homeDir, err := os.UserHomeDir()
 	if err != nil {
 		fmt.Printf("Error getting user home directory: %v\n", err)
 		return
 	}
 
-	fileName := "haiku.log"
+	logPath := filepath.Join(homeDir, ".nephtegen", "haiku.log")
 
-	err = os.MkdirAll(filepath.Dir(fileName), 0755)
+	err = os.MkdirAll(filepath.Dir(logPath), 0755)
 	if err != nil {
 		fmt.Printf("Error creating log directory: %v\n", err)
 		return
 	}
 
-	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file, err := os.OpenFile(logPath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("Error opening log file: %v\n", err)
 		return
 	}
 	defer file.Close()
 
-	lines := strings.Split(result, "\n")
-	if len(lines) >= 3 {
-		haiku := strings.Join(lines[:3], "\n") + "\n\n"
-
-		writer := bufio.NewWriter(file)
-		_, err = writer.WriteString(haiku)
-		if err != nil {
-			fmt.Printf("Error writing to log file: %v\n", err)
-			return
-		}
-		writer.Flush()
+	writer := bufio.NewWriter(file)
+	_, err = writer.WriteString(fmt.Sprintf("%s\n", creation))
+	if err != nil {
+		fmt.Printf("Error writing to log file: %v\n", err)
+		return
 	}
+
+	writer.Flush()
 }
 
 // random letter fetcher

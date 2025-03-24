@@ -1,6 +1,6 @@
 # Nephtegen
 
-## a terminal-based creative AI assistant built in Go using the Bubble Tea framework. It integrates an LLM via API to generate evocative content such as names, mottos, haikus, and symbolic phrases — all guided by user-selected themes and structural formats.
+## A terminal-based creative AI assistant built in Go using the Bubble Tea framework. It integrates an LLM via API to generate evocative content such as names, mottos, haikus, and symbolic phrases — all guided by user-selected themes and structural formats.
 
 ### Features
 

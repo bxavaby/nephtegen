@@ -7,7 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/bxavaby/mdice?style=flat-square)](https://github.com/bxavaby/mdice/network)
 [![GitHub stars](https://img.shields.io/github/stars/bxavaby/mdice?style=flat-square)](https://github.com/bxavaby/mdice/stargazers)
 
-**Nephtegen** is a terminal-based creative assistant for conjuring names, phrases, haikus, acronyms, mottos, and more. Built in Go and powered by [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Fabric](https://github.com/danielmiessler/fabric), it blends procedural logic with poetic invention. **Nephtegen** is ideal for naming systems, speculative fiction, or linguistic experimentation.
+**Nephtegen** is a terminal-based creative assistant for conjuring names, phrases, haikus, acronyms, mottos, and more. Built in Go. Powered by [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Fabric](https://github.com/danielmiessler/fabric), it blends procedural logic with poetic invention. It is ideal for naming systems, speculative fiction, or linguistic experimentation.
 
 ---
 

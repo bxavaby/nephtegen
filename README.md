@@ -80,10 +80,10 @@
 
 ### Symbolic Term
 - **Yumei** ⇝ *this name is rooted in the Japanese language, where "yume" means dream; the term embodies the dreamlike theme by directly referencing the ethereal and often elusive nature of dreams; the addition of "i" at the end adds a touch of mysticism, suggesting a connection to the mysterious and the unknown; symbolically, "Yumei" invites the exploration of one's subconscious mind, delving into the surreal landscapes that dreams create; with its origins in Japanese etymology, "Yumei" aligns with the ossified style by presenting a name that is both ancient and timeless, evoking a sense of tradition and mystique.*
-- **Yechim** ⇝ *this term is a fusion of concepts, reflecting the chimeric theme by combining disparate elements; the prefix "Ye" hints at a primal, archaic origin, while "chim" suggests a blending or merging, echoing the idea of chimeras as composite creatures; this name symbolizes the fusion of opposites or the amalgamation of different forms, embodying the essence of something that is greater than the sum of its parts; with its igniluminous style, "Yechim" shines with an inner light, illuminating the path to understanding the complex, multifaceted nature of chimeric entities; the etymology of "Yechim" is rooted in a blend of ancient linguistic elements, reflecting the chimeric theme of mixing and matching to create something anew.*
+- **Yechim** ⇝ *this term is a fusion of concepts, reflecting the chimeric theme by combining disparate elements; the prefix "Ye" hints at a primal, archaic origin, while "chim" suggests a blending or merging, echoing the idea of chimeras as composite creatures; this name symbolizes the fusion of opposites or the amalgamation of different forms, embodying the essence of something that is greater than the sum of its parts; with its igniluminous style, "Yechim" shines with an inner light, illuminating the path to understanding the complex, multifaceted nature of chimeric entities; the etymology of "Yechim" is rooted in a blend of ancient linguistic elements, reflecting the chimeric theme of mixing and matching to create something anew.* <br>
 
 
-## *Crafted by Nephtegen* <big>using Llama-3.3-70B-Veratile</big>
+## *Crafted by Nephtegen* <big>using Llama-3.3-70B-Versatile</big>
 
 ---
 

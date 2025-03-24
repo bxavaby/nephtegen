@@ -21,5 +21,5 @@ This project is fully functional but currently under active development. It depe
 
 ---
 
-# Screenshots, screencasts, and full instructions will be added soon.
+## Screenshots, screencasts, and full instructions will be added soon!
 

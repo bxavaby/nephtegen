@@ -61,13 +61,11 @@
 - **Hallowed Hilted Hierophants** ⇝ *masterfully weaves together Empyrean and Weaponry styles, as "Hallowed" evokes a sense of sacredness, "Hilted" references weaponry, and "Hierophants" implies mystical, cryptic knowledge; the 'H' alliteration creates a rhythmic flow, embodying the theme of Cryptic Whispers by suggesting ancient, mysterious guardians of hidden truths, innovatively blending the sacred and the martial within the specified length.*
 
 ### Haiku
-☗  
-*Luminous depths rise* <br>  
+☗  *Luminous depths rise* <br>  
 *Fathomless passion unfurls* <br>  
 *Liberty's dark flame*  
-
-☗  
-*Zhivago's twilight* <br>  
+<br>
+☗  *Zhivago's twilight* <br>  
 *Gilded shadows softly* <br>  
 *Midnight's velvet kiss*  
 

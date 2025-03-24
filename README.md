@@ -83,8 +83,7 @@
 - **Yechim** ⇝ *this term is a fusion of concepts, reflecting the chimeric theme by combining disparate elements; the prefix "Ye" hints at a primal, archaic origin, while "chim" suggests a blending or merging, echoing the idea of chimeras as composite creatures; this name symbolizes the fusion of opposites or the amalgamation of different forms, embodying the essence of something that is greater than the sum of its parts; with its igniluminous style, "Yechim" shines with an inner light, illuminating the path to understanding the complex, multifaceted nature of chimeric entities; the etymology of "Yechim" is rooted in a blend of ancient linguistic elements, reflecting the chimeric theme of mixing and matching to create something anew.*
 
 <br>
-<br>
-*⋆ Crafted by Nephtegen* **using llama-3.3-70b-veratile ⋆**
+*⋆ Crafted by Nephtegen* <big>**using Llama-3.3-70B-Veratile ⋆**</big>
 
 ---
 

@@ -182,7 +182,7 @@ callFabric(prompt)
 
 This invokes Fabric without persisting session memory. Output creativity may vary slightly, but performance will improve for API-based setups.
 
-All examples above were generated using llama-3.3-70b-veratile (with Fabric, via Groq). While Nephtegen is model-agnostic, quality may vary across models.
+All examples above were generated using llama-3.3-70b-versatile (with Fabric, via Groq). While Nephtegen is model-agnostic, quality may vary across models.
 
 ---
 

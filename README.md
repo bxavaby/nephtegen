@@ -30,7 +30,7 @@
 
 ---
 
-## ☍ Showcase (exemplary products)
+## ☍ Showcase (exemplar products)
 
 ### One-word
 - **Cytos** ⇝ *can be defined as a network or system of cells, reflecting the intersection of biological (neolithic, in terms of ancient, primal connections) and technological (cyberpunk).* 

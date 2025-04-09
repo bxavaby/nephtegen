@@ -89,7 +89,7 @@
 
 ## ☍ Features
 
-- **Interactive CLI**: Responsive TUI flow built with Bubble Tea & Huh.
+- **Interactive**: Responsive TUI flow built with Bubble Tea & Huh.
 - **Pattern-Based Prompting**: Uses markdown templates per format type, stored in `patterns/`.
 - **Alphabet Injection**: Injects rare letterforms to reduce LLM repetition.
 - **Multiple Naming Forms**:
